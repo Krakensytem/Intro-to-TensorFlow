@@ -1,2 +1,2 @@
-# Intro to TensorFlow
+# Intro to TensorFlow AI
 My first Github repository.
